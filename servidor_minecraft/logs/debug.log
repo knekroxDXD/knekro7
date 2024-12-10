@@ -10255,3 +10255,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 22:09:07.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [santydork: Set the time to 1000]
 [10Dec2024 22:11:14.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 22:11:14.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:16:14.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 22:16:14.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:18:38.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [santydork: Set the time to 1000]
+[10Dec2024 22:21:14.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 22:21:14.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:25:20.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [santydork: Gave 6    [Raw Beef] to santydork]
