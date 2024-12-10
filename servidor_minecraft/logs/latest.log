@@ -816,3 +816,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 21:59:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [santydork: Set the time to 1000]
 [10Dec2024 21:59:45.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1575ae26[id=<null>,name=Chrisus,properties={},legacy=false] (/127.233.60.80:60487) lost connection: Disconnected
 [10Dec2024 22:03:06.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [santydork: Gave 6    [Raw Beef] to santydork]
+[10Dec2024 22:06:43.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [santydork: Gave 6    [Raw Beef] to santydork]
+[10Dec2024 22:09:07.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [santydork: Set the time to 1000]
